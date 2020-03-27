@@ -9,6 +9,7 @@
 ```
 apt update
 apt upgrade
+pkg install git
 pkg install python2
 git clone https://github.com/Ledear-Hacker/LEDEAR_HACKING
 cd LEDEAR_HACKING 
